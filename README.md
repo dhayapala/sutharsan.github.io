@@ -1,2 +1,2 @@
-# sutharsan.github.io
+# sutharsan
 Sutharsan Kumar Krishnamoorthy's Site
